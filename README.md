@@ -18,3 +18,29 @@ Static Members: Utilizing static data members and static memebr functions for cl
 3. Salary Comparison
 4. Object Counter Tracker
 5. Bank Account Management System
+
+
+
+
+## Clone
+
+To clone , run the following command:
+
+Replace the REPO_LINK with original repository link
+
+```bash
+  git clone REPO_LINK test-repo 
+  cd test-repo 
+```
+
+## Running test
+
+To run any question, compile and execute the corresponding file:
+
+```bash
+  #Q1:  g++ Q1.cpp -o Q1
+        ./Q1
+
+  #Q2:  g++ Q2.cpp -o Q2
+        ./Q2     
+```
